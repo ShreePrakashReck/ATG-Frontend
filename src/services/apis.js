@@ -1,5 +1,5 @@
 // const BASE_URL = process.env.REACT_APP_BASE_URL
-const BASE_URL = "https://atg-backend-n7zh.vercel.app";
+const BASE_URL = "https://node-js-app-kappa.vercel.app/api/v1";
 
 // AUTH ENDPOINTS
 export const endpoints = {
